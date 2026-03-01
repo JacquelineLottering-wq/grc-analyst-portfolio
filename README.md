@@ -1,9 +1,8 @@
 # GRC Analyst Portfolio
 
-This repository demonstrates practical Governance, Risk, and Compliance (GRC)
-knowledge aligned with junior GRC, risk, and information security governance roles.
+This repository demonstrates practical Governance, Risk, and Compliance (GRC) knowledge aligned with junior GRC, risk, and information security governance roles.
 
-The examples simulate common GRC activities including risk assessment, policy development, control mapping, and governance documentation.
+The examples reflect typical organizational security activities including risk assessment, policy development, control mapping, and governance documentation.
 
 ## Areas Covered
 - Risk identification and evaluation
@@ -21,3 +20,4 @@ governance/ – Governance models and roles
 ## Certifications
 - Google Cybersecurity Certificate  
 - ISC2 Certified in Cybersecurity (CC) – In Progress
+
