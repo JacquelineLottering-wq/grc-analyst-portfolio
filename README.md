@@ -19,5 +19,5 @@ governance/ – Governance models and roles
 
 ## Certifications
 - Google Cybersecurity Certificate  
-- ISC2 Certified in Cybersecurity (CC) – In Progress
+- Comptia A+ certificate in progress
 
